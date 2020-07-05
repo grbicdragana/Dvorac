@@ -42,7 +42,7 @@ h1 {
 }
 
 body {
-    background-image: url("../projekat_dvorac_dgrbic/slike/dvorac\ background.jpg");
+    background-image: url("slike/dvorac\ background.jpg");
     background-repeat: no-repeat;  
     background-size: cover; 
     background-color: rgba(0,0,0,0.2);
